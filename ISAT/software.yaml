@@ -21,6 +21,8 @@ label:
   name: fence
 - color: '#204a87'
   name: hat
+- color: '#aa55ff'
+  name: greenhouse
 software:
   auto_save: false
   contour_mode: max_only
