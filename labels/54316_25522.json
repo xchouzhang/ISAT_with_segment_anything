@@ -1,0 +1,77 @@
+{
+    "info": {
+        "description": "ISAT",
+        "folder": "D:/expermients/Dr_code/zxp_other/ISAT_with_segment_anything/images",
+        "name": "54316_25522.png",
+        "width": 256,
+        "height": 256,
+        "depth": 3,
+        "note": ""
+    },
+    "objects": [
+        {
+            "category": "greenhouse",
+            "group": 1,
+            "segmentation": [
+                [
+                    61.09,
+                    38.36
+                ],
+                [
+                    60.79,
+                    52.23
+                ],
+                [
+                    0.0,
+                    45.74
+                ],
+                [
+                    0.0,
+                    31.87
+                ]
+            ],
+            "area": 846.2112999999999,
+            "layer": 1.0,
+            "bbox": [
+                -0.5,
+                31.37,
+                61.60069526227117,
+                52.727174652737936
+            ],
+            "iscrowd": false,
+            "note": ""
+        },
+        {
+            "category": "greenhouse",
+            "group": 3,
+            "segmentation": [
+                [
+                    93.96,
+                    38.18
+                ],
+                [
+                    99.86,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    25.07
+                ]
+            ],
+            "area": 3084.027642049082,
+            "layer": 2.0,
+            "bbox": [
+                -0.5,
+                -0.5,
+                100.35625850192629,
+                38.74675811748813
+            ],
+            "iscrowd": false,
+            "note": ""
+        }
+    ]
+}
