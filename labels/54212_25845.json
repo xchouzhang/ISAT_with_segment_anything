@@ -1,7 +1,7 @@
 {
     "info": {
         "description": "ISAT",
-        "folder": "D:/experiments/Dr_code/zxp_others/ISAT_with_segment_anything/images",
+        "folder": "D:/expermients/Dr_code/zxp_other/ISAT_with_segment_anything/images",
         "name": "54212_25845.png",
         "width": 256,
         "height": 256,
@@ -38,13 +38,13 @@
                     190.22
                 ]
             ],
-            "area": 3702.3094906715887,
+            "area": 3701.850999999997,
             "layer": 1.0,
             "bbox": [
-                106.35792046633898,
-                141.96742138529075,
-                183.1877837104925,
-                248.44041910006504
+                106.35675590379431,
+                141.96470791378715,
+                183.1829984904869,
+                248.43681017831975
             ],
             "iscrowd": false,
             "note": ""
